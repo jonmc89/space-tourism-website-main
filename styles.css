@@ -1,0 +1,51 @@
+/* || Global Styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --blue-900: #0b0d17;
+  --blue-300: #d0d6f9;
+  --white: #fff;
+  --text-preset-1-ff: 'Bellefair Regular', Arial, serif;
+  --text-preset-1-fs: 144px;
+  --text-preset-1-fw: 400;
+  --text-preset-1-lh: 171.9%;
+  --text-preset-2-ff: 'Bellefair Regular', Arial, serif;
+  --text-preset-2-fs: 100px;
+  --text-preset-2-fw: 400;
+  --text-preset-2-lh: 114.8%;
+  --text-preset-3-ff: 'Bellefair Regular', Arial, serif;
+  --text-preset-3-fs: 56px;
+  --text-preset-3-fw: 400;
+  --text-preset-3-lh: 64.2%;
+  --text-preset-4-ff: 'Bellefair Regular', Arial, serif;
+  --text-preset-4-fs: 32px;
+  --text-preset-4-fw: 400;
+  --text-preset-4-lh: 36.7%;
+  --text-preset-5-ff: 'Barlow Condensed', Arial, serif;
+  --text-preset-5-fs: 28px;
+  --text-preset-5-fw: 400;
+  --text-preset-5-lh: 33.6%;
+  --text-preset-6-ff: 'Bellefair Regular', Arial, serif;
+  --text-preset-6-fs: 28px;
+  --text-preset-6-fw: 400;
+  --text-preset-6-lh: 32.1%;
+  --text-preset-7-ff: 'Barlow Condensed', Arial, serif;
+  --text-preset-7-fs: 14px;
+  --text-preset-7-fw: 400;
+  --text-preset-7-lh: 16.8%;
+  --text-preset-7-ls: 2px;
+  --text-preset-8-ff: 'Barlow Condensed', Arial, serif;
+  --text-preset-8-fs: 16px;
+  --text-preset-8-fw: 400;
+  --text-preset-8-lh: 19.2%;
+  --text-preset-8-ls: 2px;
+  --text-preset-9-ff: 'Barlow Regular', Arial, serif;
+  --text-preset-9-fs: 18px;
+  --text-preset-9-fw: 400;
+  --text-preset-9-lh: 180%;
+}
